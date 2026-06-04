@@ -160,7 +160,7 @@ A selection of my best full-stack applications, crafted with clean UI and practi
 
 <p align="center">
   <strong>📧 aryarabade2006@example.com</strong> • <strong>📞 +91-7841835474</strong>
-                <strong>https://linkedin.com/in/arya-rabade</strong>
+                
 </p>
 
 ---
