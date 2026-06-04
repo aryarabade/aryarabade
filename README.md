@@ -14,8 +14,9 @@ I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Compute
 
 - 🎓 B.Tech CSE Student from Kolhapur
 - 💻 Passionate about **MERN Stack Development** and **DSA**
-- ☕ **Java Enthusiast** e
+- ☕ **Java Enthusiast** who loves OOP and clean code
 - 🏆 CGPA: **8**
+- 🔭 I love building full-stack applications that solve real-world problems
 - ⚡ Fun fact: I enjoy turning ideas into reality using code
 
 ---
@@ -42,7 +43,7 @@ I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Compute
 <p align="center">
 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </p>
 
@@ -89,11 +90,9 @@ A selection of my best full-stack applications, crafted with clean UI and practi
       <h3>💊 Medicare Store Portal</h3>
       <p>A medicine inventory system with live stock updates, smart alerts, and intuitive analytics for pharmacy operations.</p>
       <p>
-       
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-
+        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
       </p>
       <ul>
         <li>📦 Real-time stock and expiry monitoring</li>
@@ -135,6 +134,7 @@ A selection of my best full-stack applications, crafted with clean UI and practi
       <p><strong>Impact:</strong> improves money management through data-driven decisions.</p>
     </td>
     
+  </tr>
 </table>
 
 ---
@@ -161,7 +161,6 @@ A selection of my best full-stack applications, crafted with clean UI and practi
 
 <p align="center">
   <strong>📧 aryarabade2006@example.com</strong> • <strong>📞 +91-7841835474</strong>
-                  <strong>https://linkedin.com/in/arya-rabade</strong>
 </p>
 
 ---
