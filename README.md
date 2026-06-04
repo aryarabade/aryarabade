@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Java+Enthusiast+%E2%98%95;DSA+Problem+Solver+%F0%9F%A7%A0;B.Tech+CSE+%40+Kolhapur+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
-<img src="https://raw.githubusercontent.com/aryarabade/aryarabade/main/YOUR_IMAGE_NAME.png" width="180" align="right" alt="Arya Rabade" />
-
 ---
 
 ## 🚀 About Me
@@ -135,7 +133,15 @@ A selection of my best full-stack applications, crafted with clean UI and practi
       </ul>
       <p><strong>Impact:</strong> improves money management through data-driven decisions.</p>
     </td>
-   
+    <td width="50%" valign="top">
+      <h3>✨ More Projects Coming Soon</h3>
+      <p>Building more real-world applications that combine design, performance, and user value.</p>
+      <ul>
+        <li>💼 Portfolio-ready full-stack builds</li>
+        <li>⚡ Fast, responsive UI experiences</li>
+        <li>🔧 Continuous improvement and learning</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -143,25 +149,27 @@ A selection of my best full-stack applications, crafted with clean UI and practi
 
 ## 📬 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:aryarabade2006@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/arya-rabade" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;
   <a href="tel:+917841835474">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
 
-📧 **Email:** aryarabade2006@example.com
-📞 **Phone:** +91-7841835474
-💼 **LinkedIn:** [linkedin.com/in/arya-rabade](https://linkedin.com/in/arya-rabade)
-🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+<p align="center">
+  <strong>📧 aryarabade2006@example.com</strong> • <strong>📞 +91-7841835474</strong>
+</p>
 
 ---
 
