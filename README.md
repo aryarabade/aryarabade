@@ -14,9 +14,8 @@ I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Compute
 
 - 🎓 B.Tech CSE Student from Kolhapur
 - 💻 Passionate about **MERN Stack Development** and **DSA**
-- ☕ **Java Enthusiast** who loves OOP and clean code
+- ☕ **Java Enthusiast** e
 - 🏆 CGPA: **8**
-- 🔭 I love building full-stack applications that solve real-world problems
 - ⚡ Fun fact: I enjoy turning ideas into reality using code
 
 ---
@@ -43,7 +42,7 @@ I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Compute
 <p align="center">
 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
 </p>
 
@@ -90,9 +89,11 @@ A selection of my best full-stack applications, crafted with clean UI and practi
       <h3>💊 Medicare Store Portal</h3>
       <p>A medicine inventory system with live stock updates, smart alerts, and intuitive analytics for pharmacy operations.</p>
       <p>
-        <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+       
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
       </p>
       <ul>
         <li>📦 Real-time stock and expiry monitoring</li>
