@@ -133,16 +133,7 @@ A selection of my best full-stack applications, crafted with clean UI and practi
       </ul>
       <p><strong>Impact:</strong> improves money management through data-driven decisions.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>✨ More Projects Coming Soon</h3>
-      <p>Building more real-world applications that combine design, performance, and user value.</p>
-      <ul>
-        <li>💼 Portfolio-ready full-stack builds</li>
-        <li>⚡ Fast, responsive UI experiences</li>
-        <li>🔧 Continuous improvement and learning</li>
-      </ul>
-    </td>
-  </tr>
+    
 </table>
 
 ---
@@ -169,6 +160,7 @@ A selection of my best full-stack applications, crafted with clean UI and practi
 
 <p align="center">
   <strong>📧 aryarabade2006@example.com</strong> • <strong>📞 +91-7841835474</strong>
+                  <strong>https://linkedin.com/in/arya-rabade</strong>
 </p>
 
 ---
