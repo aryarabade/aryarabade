@@ -84,60 +84,66 @@ I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Compute
 
 ## 🚀 Featured Projects
 
+A selection of my best full-stack applications, crafted with clean UI and practical features to solve everyday problems.
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>💊 Medicare Store Portal</h3>
-      <p>A smart medicine inventory management system that tracks medicine stocks in real-time and sends automated alerts when stock runs low or medicines are about to expire.</p>
+      <p>A medicine inventory system with live stock updates, smart alerts, and intuitive analytics for pharmacy operations.</p>
       <p>
         <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
       </p>
       <ul>
-        <li>📦 Real-time medicine stock tracking</li>
-        <li>🔔 Automated low-stock & expiry alerts</li>
-        <li>📊 Inventory dashboard with analytics</li>
-        
+        <li>📦 Real-time stock and expiry monitoring</li>
+        <li>🔔 Automated low-stock and expiry notifications</li>
+        <li>📊 Dashboard with inventory analytics</li>
       </ul>
-      <p>⭐ Stars: — &nbsp; 🍴 Forks: —</p>
+      <p><strong>Impact:</strong> reduces manual tracking and prevents expired medicine waste.</p>
     </td>
     <td width="50%" valign="top">
       <h3>✅ Smart Habit Tracker</h3>
-      <p>An intelligent habit tracking application that helps individuals build and maintain habits with smart reminders, streaks, progress visualization, and personalized insights.</p>
+      <p>A habit-building app designed to keep users motivated with streaks, reminders, and progress insights.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <ul>
-        <li>📅 Daily/weekly habit scheduling</li>
-        <li>🔥 Streak tracking & milestone badges</li>
-        <li>📈 Progress charts & habit analytics</li>
-        <li>🔔 Smart reminders & notifications</li>
+        <li>📅 Habit scheduling with daily and weekly goals</li>
+        <li>🔥 Streaks, milestones, and motivation boosters</li>
+        <li>📈 Visual progress reports and habit analytics</li>
       </ul>
-      <p>⭐ Stars: — &nbsp; 🍴 Forks: —</p>
+      <p><strong>Impact:</strong> helps users stay consistent and reach goals faster.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💰 AI Finance Tracker</h3>
-      <p>An AI-powered personal finance tracker that smartly categorizes expenses, detects spending patterns, provides budget recommendations, and gives intelligent insights to help users manage money better.</p>
+      <p>An AI-powered finance dashboard that automatically categorizes spending and delivers smart budgeting advice.</p>
       <p>
         <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/AI_Powered-7C3AED?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <ul>
-        <li>🤖 AI-based expense categorization</li>
-        <li>📊 Smart spending pattern analysis</li>
+        <li>🤖 Intelligent expense categorization</li>
+        <li>📊 Spending patterns and trend insights</li>
         <li>💡 Personalized budget recommendations</li>
-        <li>📉 Visual expense reports & charts</li>
       </ul>
-      <p>⭐ Stars: — &nbsp; 🍴 Forks: —</p>
+      <p><strong>Impact:</strong> improves money management through data-driven decisions.</p>
     </td>
-   
-      
+    <td width="50%" valign="top">
+      <h3>✨ More Projects Coming Soon</h3>
+      <p>Building more real-world applications that combine design, performance, and user value.</p>
+      <ul>
+        <li>💼 Portfolio-ready full-stack builds</li>
+        <li>⚡ Fast, responsive UI experiences</li>
+        <li>🔧 Continuous improvement and learning</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -169,9 +175,19 @@ I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Compute
 
 ## 💬 Quote
 
-> *"Everybody should learn to program a computer, because it teaches you how to think."*
->
-> **— Steve Jobs**
+<p align="center">
+  <em>“Coding isn’t just about writing lines of code — it’s about learning a better way to solve problems.”</em>
+</p>
+
+<p align="center">
+  <strong>— Arya Rabade</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Curious-FF6B6B?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Driven-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative-00A7C4?style=for-the-badge&logo=artstation&logoColor=white" />
+</p>
 
 ---
 
@@ -180,5 +196,3 @@ I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Compute
 </p>
 
 <p align="center">❤️ Thanks for visiting! Have a great day! 😊</p>
-
-
