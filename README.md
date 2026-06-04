@@ -14,9 +14,8 @@ I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Compute
 
 - 🎓 B.Tech CSE Student from Kolhapur
 - 💻 Passionate about **MERN Stack Development** and **DSA**
-- ☕ **Java Enthusiast** who loves OOP and clean code
+- ☕ **Java Enthusiast** 
 - 🏆 CGPA: **8**
-- 🔭 I love building full-stack applications that solve real-world problems
 - ⚡ Fun fact: I enjoy turning ideas into reality using code
 
 ---
@@ -161,6 +160,7 @@ A selection of my best full-stack applications, crafted with clean UI and practi
 
 <p align="center">
   <strong>📧 aryarabade2006@example.com</strong> • <strong>📞 +91-7841835474</strong>
+                <strong>https://linkedin.com/in/arya-rabade</strong>
 </p>
 
 ---
