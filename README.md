@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arya Rabade</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=7C3AED&height=200&section=header&text=Hi%20👋,%20I'm%20Arya%20Rabade&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
 
-<h3 align="center">B.Tech CSE Student | MERN Stack Developer | DSA Learner | Java Enthusiast</h3>
+<h3 align="center">🚀 B.Tech CSE Student | MERN Stack Developer | DSA Learner | Java Enthusiast ☕</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Java+Enthusiast+%E2%98%95;DSA+Problem+Solver+%F0%9F%A7%A0;B.Tech+CSE+%40+Kolhapur+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -8,75 +10,52 @@
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Computer Science and Engineering** with a **CGPA of 8**. I have a strong interest in software development and problem-solving, especially in building applications that solve real-world problems.
-
-- 🎓 B.Tech CSE Student from Kolhapur
-- 💻 Passionate about **MERN Stack Development** and **DSA**
-- ☕ **Java Enthusiast** 
-- 🏆 CGPA: **8**
-- ⚡ Fun fact: I enjoy turning ideas into reality using code
+<table align="center" width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <p>I'm <b>Arya Rabade</b> from <b>Kolhapur</b>, currently pursuing my <b>B.Tech in Computer Science and Engineering</b> with a <b>CGPA of 8</b>. I have a strong interest in software development and problem-solving, especially in building applications that solve real-world problems.</p>
+      <ul>
+        <li>🎓 <b>B.Tech CSE Student</b> from Kolhapur</li>
+        <li>💻 Passionate about <b>MERN Stack Development</b> and <b>DSA</b></li>
+        <li>☕ <b>Java Enthusiast</b></li>
+        <li>🏆 CGPA: <b>8</b></li>
+        <li>⚡ <i>Fun fact: I enjoy turning ideas into reality using code</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
+  ### 🌐 Frontend & Core Languages
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-</p>
-
-<p align="center">
-
+  ### ⚙️ Backend & Frameworks
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-</p>
-
-<p align="center">
-
+  ### 🗄️ Databases
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-</p>
-
-<p align="center">
-
+  ### 🔧 Tools & Concepts
   <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryarabade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-   -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryarabade&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryarabade&layout=compact&theme=tokyonight&hide_border=true" /> -->
-</p>
-
----
-
-## 🔥 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryarabade&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
 ---
 
@@ -84,10 +63,13 @@ I'm **Arya Rabade** from **Kolhapur**, currently pursuing my **B.Tech in Compute
 
 A selection of my best full-stack applications, crafted with clean UI and practical features to solve everyday problems.
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>💊 Medicare Store Portal</h3>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/type=soft&color=7C3AED&height=40&section=header&text=💊%20Medicare%20Store%20Portal&fontSize=18&fontColor=ffffff" width="100%"/>
+      </div>
+      <br />
       <p>A medicine inventory system with live stock updates, smart alerts, and intuitive analytics for pharmacy operations.</p>
       <p>
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -99,10 +81,13 @@ A selection of my best full-stack applications, crafted with clean UI and practi
         <li>🔔 Automated low-stock and expiry notifications</li>
         <li>📊 Dashboard with inventory analytics</li>
       </ul>
-      <p><strong>Impact:</strong> reduces manual tracking and prevents expired medicine waste.</p>
+      <p><b>Impact:</b> reduces manual tracking and prevents expired medicine waste.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>✅ Smart Habit Tracker</h3>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/type=soft&color=7C3AED&height=40&section=header&text=✅%20Smart%20Habit%20Tracker&fontSize=18&fontColor=ffffff" width="100%"/>
+      </div>
+      <br />
       <p>A habit-building app designed to keep users motivated with streaks, reminders, and progress insights.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -114,12 +99,15 @@ A selection of my best full-stack applications, crafted with clean UI and practi
         <li>🔥 Streaks, milestones, and motivation boosters</li>
         <li>📈 Visual progress reports and habit analytics</li>
       </ul>
-      <p><strong>Impact:</strong> helps users stay consistent and reach goals faster.</p>
+      <p><b>Impact:</b> helps users stay consistent and reach goals faster.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 AI Finance Tracker</h3>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/type=soft&color=7C3AED&height=40&section=header&text=💰%20AI%20Finance%20Tracker&fontSize=18&fontColor=ffffff" width="100%"/>
+      </div>
+      <br />
       <p>An AI-powered finance dashboard that automatically categorizes spending and delivers smart budgeting advice.</p>
       <p>
         <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -131,11 +119,22 @@ A selection of my best full-stack applications, crafted with clean UI and practi
         <li>📊 Spending patterns and trend insights</li>
         <li>💡 Personalized budget recommendations</li>
       </ul>
-      <p><strong>Impact:</strong> improves money management through data-driven decisions.</p>
+      <p><b>Impact:</b> improves money management through data-driven decisions.</p>
     </td>
-    
+    <td width="50%" valign="top">
+      <!-- Empty space left intentionally for balanced two-column symmetry -->
+    </td>
   </tr>
 </table>
+
+---
+
+## 📊 Analytics & Insights
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryarabade&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryarabade&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -161,7 +160,6 @@ A selection of my best full-stack applications, crafted with clean UI and practi
 
 <p align="center">
   <strong>📧 aryarabade2006@example.com</strong> • <strong>📞 +91-7841835474</strong>
-                
 </p>
 
 ---
